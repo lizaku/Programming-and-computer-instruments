@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="utf-8"?><html><head>
+</head>
+<body>
+<p class="h2"><se>
+<w><ana lex="часть" gr="S,f,inan=sg,nom"></ana>ЧАСТЬ</w>
+<w><ana lex="первый" gr="ANUM=f,sg,nom"></ana>П`ЕРВАЯ</w></se></p>
+<p class="h3"><se>
+<w><ana lex="1" gr="NUM=ciph"></ana>1</w></se></p>
+<p><se>
+<w><ana lex="над" gr="PR"></ana>Над</w>
+<w><ana lex="земля" gr="S,f,inan=sg,ins"></ana>землёй</w>
+<w><ana lex="стоять" gr="V,ipf,intr,act=m,sg,praet,indic"></ana>сто`ял</w>
+<w><ana lex="туман" gr="S,m,inan=sg,nom"></ana>тум`ан</w>.
+</se>
+<se>
+<w><ana lex="на" gr="PR"></ana>На</w>
+<w><ana lex="провод" gr="S,m,inan=pl,loc"></ana>провод`ах</w>
+<w><ana lex="высокий" gr="A=n,sg,gen,plen"></ana>выс`окого</w>
+<w><ana lex="напряжение" gr="S,n,inan=sg,gen"></ana>напряж`ения</w>,
+<w><ana lex="тянуться" gr="V,ipf,intr,med=partcp,pl,loc,praet"></ana>тян`увшихся</w>
+<w><ana lex="вдоль" gr="PR"></ana>вдоль</w>
+<w><ana lex="шоссе" gr="S,n,inan,0=sg,gen"></ana>шосс`е</w>,
+<w><ana lex="отсвечивать" gr="V,ipf,intr,act=pl,praet,indic"></ana>отсв`ечивали</w>
+<w><ana lex="отблеск" gr="S,m,inan=pl,nom"></ana>`отблески</w>
+<w><ana lex="автомобильный" gr="A=pl,gen,plen"></ana>автомоб`ильных</w>
+<w><ana lex="фара" gr="S,f,inan=pl,gen"></ana>фар</w>.</se></p>
+<p><se>
+<w><ana lex="дождь" gr="S,m,inan=sg,gen"></ana>Дожд`я</w>
+<w><ana lex="не" gr="PART"></ana>н`е</w>
+<w><ana lex="быть" gr="V,ipf,intr,act=n,sg,praet,indic"></ana>было</w>,
+<w><ana lex="но" gr="CONJ"></ana>но</w>
+<w><ana lex="земля" gr="S,f,inan=sg,nom"></ana>земл`я</w>
+<w><ana lex="на" gr="PR"></ana>на</w>
+<w><ana lex="рассвет" gr="S,m,inan=sg,loc"></ana>рассв`ете</w>
+<w><ana lex="стать" gr="V,pf,intr,act=f,sg,praet,indic"></ana>ст`ала</w>
+<w><ana lex="влажный" gr="A=f,sg,ins,plen"></ana>вл`ажной</w>
+<w><ana lex="и" gr="CONJ"></ana>и</w>,
+<w><ana lex="когда" gr="CONJ"></ana>когд`а</w>
+<w><ana lex="вспыхивать" gr="V,ipf,intr,act=m,sg,praet,indic"></ana>всп`ыхивал</w>
+<w><ana lex="запретительный" gr="A=m,sg,nom,plen"></ana>запрет`ительный</w>
+<w><ana lex="светофор" gr="S,m,inan=sg,nom"></ana>светоф`ор</w>,
+<w><ana lex="на" gr="PR"></ana>на</w>
+<w><ana lex="мокрый" gr="A=m,sg,loc,plen"></ana>м`окром</w>
+<w><ana lex="асфальт" gr="S,m,inan=sg,loc"></ana>асф`альте</w>
+<w><ana lex="появляться" gr="V,ipf,intr,med=n,sg,praet,indic"></ana>появл`ялось</w>
+<w><ana lex="красноватый" gr="A=n,sg,nom,plen"></ana>краснов`атое</w>
+<w><ana lex="расплывчатый" gr="A=n,sg,nom,plen"></ana>распл`ывчатое</w>
+<w><ana lex="пятно" gr="S,n,inan=sg,nom"></ana>пятн`о</w>.
+</se>
+<se>
+<w><ana lex="дыхание" gr="S,n,inan=sg,nom"></ana>Дых`ание</w>
+<w><ana lex="лагерь" gr="S,m,inan=sg,gen"></ana>л`агеря</w>
+<w><ana lex="чувствоваться" gr="V,ipf,intr,med=n,sg,praet,indic"></ana>ч`увствовалось</w>
+<w><ana lex="за" gr="PR"></ana>за</w>
+<w><ana lex="много" gr="NUM=acc"></ana>мн`ого</w>
+<w><ana lex="километр" gr="S,m,inan=pl,gen"></ana>килом`етров</w>,
+-- <w><ana lex="к" gr="PR"></ana>к</w>
+<w><ana lex="он" gr="S-PRO,m,sg,3p=dat"></ana>нем`у</w>
+<w><ana lex="тянуться" gr="V,ipf,intr,med=pl,praet,indic"></ana>тян`улись</w>,
+<w><ana lex="всё" gr="ADV"></ana>всё</w>
+<w><ana lex="сгущаться" gr="V,ipf,intr,med=ger,praes"></ana>сгущ`аясь</w>,
+<w><ana lex="провод" gr="S,m,inan=pl,nom"></ana>провод`а</w>,
+<w><ana lex="шоссейный" gr="A=pl,nom,plen"></ana>шосс`ейные</w>
+<w><ana lex="и" gr="CONJ"></ana>и</w>
+<w><ana lex="железный" gr="A=pl,nom,plen"></ana>жел`езные</w>
+<w><ana lex="дорога" gr="S,f,inan=pl,nom"></ana>дор`оги</w>.
+</se>
+<se>
+<w><ana lex="это" gr="S-PRO,n,sg=nom"></ana>`Это</w>
+<w><ana lex="быть" gr="V,ipf,intr,act=n,sg,praet,indic"></ana>б`ыло</w>
+<w><ana lex="пространство" gr="S,n,inan=sg,nom"></ana>простр`анство</w>,
+<w><ana lex="заполнить" gr="V,pf,tran=partcp,n,sg,nom,pass,praet"></ana>зап`олненное</w>
+<w><ana lex="прямой" gr="A=pl,ins,plen"></ana>прям`ыми</w>
+<w><ana lex="линия" gr="S,f,inan=pl,ins"></ana>л`иниями</w>,
+<w><ana lex="пространство" gr="S,n,inan=sg,nom"></ana>простр`анство</w>
+<w><ana lex="прямоугольник" gr="S,m,inan=pl,gen"></ana>прямоуг`ольников</w>
+<w><ana lex="и" gr="CONJ"></ana>и</w>
+<w><ana lex="параллелограмм" gr="S,m,inan=pl,gen"></ana>параллелогр`аммов</w>,
+<w><ana lex="рассекать" gr="V,ipf,tran=partcp,pl,gen,act,praet"></ana>рассек`авших</w>
+<w><ana lex="земля" gr="S,f,inan=sg,acc"></ana>з`емлю</w>,
+<w><ana lex="осенний" gr="A=n,sg,acc,plen"></ana>ос`еннее</w>
+<w><ana lex="небо" gr="S,n,inan=sg,acc"></ana>н`ебо</w>,
+<w><ana lex="туман" gr="S,m,inan=sg,acc"></ana>тум`ан</w>.</se></p>
+<p><se>
+<w><ana lex="протяжно" gr="ADV"></ana>Прот`яжно</w>
+<w><ana lex="и" gr="CONJ"></ana>и</w>
+<w><ana lex="негромко" gr="ADV"></ana>негр`омко</w>
+<w><ana lex="завыть" gr="V,pf,intr,act=pl,praet,indic"></ana>зав`ыли</w>
+<w><ana lex="далекий" gr="A=pl,nom,plen"></ana>далёкие</w>
+<w><ana lex="сирена" gr="S,f,inan=pl,nom"></ana>сир`ены</w>.</se></p>
+</body></html>
