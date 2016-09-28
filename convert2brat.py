@@ -1,8 +1,8 @@
 # coding: utf-8
 
 import os, re
-from pymystem3 import Mystem
-m = Mystem()
+#from pymystem3 import Mystem
+#m = Mystem()
 punct = '@,.:!?"\'()'
 re_ana = re.compile('\{.*?\}')
 
@@ -37,10 +37,11 @@ def convert2brat(text):
                     if ana != []:
                         anas = ana[0][1:-1].split('|')
                         for an in anas:
-                        #lemma = re.findall('[^=]*', an)[0]
+                            lemma = re.findall('[^=]*', an)[0]
+                            an = an.replace(lemma, '').replace('=', '', 1)
                         #print(an, lemma)
-                            params = {'T': str(t), 'start': str(start_pos), 'end': str(end_pos), 'a': str(a), 'an': an}
-                            ann.write('T{T}\ttag {start} {end}\t\n#{a}\tAnnotatorNotes T{T}\t{an}\n'.format(**params))
+                            params = {'T': str(t), 'start': str(start_pos), 'end': str(end_pos), 'a': str(a), 'gr': an, 'lemma': lemma}
+                            ann.write('T{T}\tPOS {start} {end}\t\n#{a}\tAnnotatorNotes T{T}\tlex="{lemma}" gr="{gr}"\n'.format(**params))
                             t += 1
                             a += 1
                     position_line += len(new_word)
@@ -48,11 +49,11 @@ def convert2brat(text):
                     #line = re.sub(re.escape(word), new_word, line)
                 lines.append(line)
                 position_text += len(line)
-        with open('new_sample.txt', 'w', encoding='utf-8') as n:
+        with open(text, 'w', encoding='utf-8') as n:
             for line in lines:
                 n.write(line)
 
 
 if __name__ == '__main__':
-    text = 'sample_ana.txt'
+    text = 'output.txt'
     convert2brat(text)
