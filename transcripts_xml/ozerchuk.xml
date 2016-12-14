@@ -1,0 +1,814 @@
+<html>
+  <body>
+<se>﻿
+<w>Илья<ana lex="илья" gr="S,persn,m,anim=nom,sg"/></w>@ 
+<w>Работал<ana lex="работать" gr="V,ipf,intr=praet,sg,indic,m"/></w> 
+<w>я<ana lex="я" gr="SPRO,sg,1p=nom"/></w>, 
+<w>значит<ana lex="значит" gr="ADV,parenth="/></w>, 
+<w>моряком<ana lex="моряк" gr="S,m,anim=ins,sg"/></w> 
+<w>века<ana lex="век" gr="S,m,inan=acc,pl"/><ana lex="век" gr="S,m,inan=gen,sg"/><ana lex="век" gr="S,m,inan=nom,pl"/></w> 
+<w>два<ana lex="два" gr="NUM=acc,m,inan"/><ana lex="два" gr="NUM=nom,m"/><ana lex="два" gr="NUM=acc,n"/><ana lex="два" gr="NUM=nom,n"/></w> 
+<w>или<ana lex="или" gr="CONJ="/></w>, 
+<w>может<ana lex="мочь" gr="V,ipf,intr=inpraes,sg,indic,3p"/></w>, 
+<w>три<ana lex="три" gr="NUM=nom"/><ana lex="три" gr="NUM=acc,inan"/></w> 
+<w>назад<ana lex="назад" gr="ADV="/></w>. 
+</se>
+<se>
+<w>Вернулся<ana lex="вернуться" gr="V,pf,intr=praet,sg,indic,m"/></w> 
+<w>с<ana lex="с" gr="PR="/></w> 
+<w>плавания<ana lex="плавание" gr="S,n,inan=acc,pl"/><ana lex="плавание" gr="S,n,inan=gen,sg"/><ana lex="плавание" gr="S,n,inan=nom,pl"/></w>, 
+<w>пошёл<ana lex="пойти" gr="V,pf,intr=praet,sg,indic,m"/></w> 
+<w>в<ana lex="в" gr="PR="/></w> 
+<w>питейное<ana lex="питейный" gr="A=acc,sg,plen,n"/><ana lex="питейный" gr="A=nom,sg,plen,n"/></w> 
+<w>заведение<ana lex="заведение" gr="S,n,inan=acc,sg"/><ana lex="заведение" gr="S,n,inan=nom,sg"/></w>, 
+<w>ну<ana lex="ну" gr="PART="/></w>, 
+<w>барами<ana lex="бар" gr="S,m,inan=ins,pl"/></w> 
+<w>это<ana lex="это" gr="PART="/></w> 
+<distinct form="
+<w>щас<ana lex="щас" gr="ADV,inform="/></w>"
+<w>сейчас<ana lex="сейчас" gr="ADV="/></w></distinct> 
+<w>называется<ana lex="называться" gr="V,ipf,intr=inpraes,sg,indic,3p"/></w>. 
+</se>
+<se>
+<w>Пришёл<ana lex="прийти" gr="V,pf,intr=praet,sg,indic,m"/></w>, 
+<w>начал<ana lex="начало" gr="S,n,inan=gen,pl"/></w> 
+<w>пить<ana lex="пить" gr="V,ipf,tran=inf"/></w>. 
+</se>
+<se>
+<w>Пью<ana lex="пить" gr="V,ipf,tran=inpraes,sg,indic,1p"/></w>, 
+<w>пью<ana lex="пить" gr="V,ipf,tran=inpraes,sg,indic,1p"/></w>, 
+<w>пью<ana lex="пить" gr="V,ipf,tran=inpraes,sg,indic,1p"/></w>, 
+<w>сижу<ana lex="сидеть" gr="V,ipf,intr=inpraes,sg,indic,1p"/></w> 
+<w>пью<ana lex="пить" gr="V,ipf,tran=inpraes,sg,indic,1p"/></w>, 
+<w>сижу<ana lex="сидеть" gr="V,ipf,intr=inpraes,sg,indic,1p"/></w> 
+<w>пью<ana lex="пить" gr="V,ipf,tran=inpraes,sg,indic,1p"/></w>. 
+</se>
+<se>
+<w>Подходит<ana lex="подходить" gr="V,ipf,intr=inpraes,sg,indic,3p"/></w> 
+<w>ко<ana lex="ко" gr="PR="/></w> 
+<w>мне<ana lex="я" gr="SPRO,sg,1p=abl"/><ana lex="я" gr="SPRO,sg,1p=dat"/></w>, 
+<w>значит<ana lex="значит" gr="ADV,parenth="/></w>, 
+<w>парень<ana lex="парень" gr="S,m,anim=nom,sg"/></w> 
+<w>один<ana lex="один" gr="APRO=acc,sg,m,inan"/><ana lex="один" gr="APRO=nom,sg,m"/></w> 
+<w>молодой<ana lex="молодой" gr="A=acc,sg,plen,m,inan"/><ana lex="молодой" gr="A=nom,sg,plen,m"/><ana lex="молодой" gr="A=abl,sg,plen,f"/><ana lex="молодой" gr="A=dat,sg,plen,f"/><ana lex="молодой" gr="A=gen,sg,plen,f"/><ana lex="молодой" gr="A=ins,sg,plen,f"/></w>, 
+<w>Артур<ana lex="артур" gr="S,persn,m,anim=nom,sg"/></w> 
+<w>его<ana lex="он" gr="SPRO,sg,3p,m=acc"/><ana lex="он" gr="SPRO,sg,3p,m=gen"/></w>, 
+<distinct form="
+<w>кашца<ana lex="кашец" qual="bastard" gr="S,m,anim=acc,sg"/><ana lex="кашец" qual="bastard" gr="S,m,anim=gen,sg"/></w>"
+<w>кажется<ana lex="кажется" gr="ADV,parenth="/></w></distinct>, 
+<w>звали<ana lex="звать" gr="V,ipf,tran=praet,pl,indic"/></w>. 
+</se>
+<se>
+<w>Ну<ana lex="ну" gr="PART="/></w>, 
+<w>мы<ana lex="мы" gr="SPRO,pl,1p=nom"/></w> 
+<w>с<ana lex="с" gr="PR="/></w> 
+<w>ним<ana lex="он" gr="SPRO,sg,3p,m=ins"/></w> 
+<w>заобщались<ana lex="заобщаться" qual="bastard" gr="V,pf,intr=praet,pl,indic"/></w>, 
+<w>познакомились<ana lex="познакомиться" gr="V,pf,intr=praet,pl,indic"/></w>, 
+<distinct form="
+<w>от<ana lex="от" gr="PR="/></w>"
+<w>вот<ana lex="вот" gr="PART="/></w></distinct>. 
+<w>Илья<ana lex="илья" gr="S,persn,m,anim=nom,sg"/></w>@ 
+<w>Намечается<ana lex="намечаться" gr="V,ipf,intr=inpraes,sg,indic,3p"/></w>, 
+<w>значит<ana lex="значит" gr="ADV,parenth="/></w>, 
+<w>заварушка<ana lex="заварушка" gr="S,f,inan=nom,sg"/></w>. 
+</se>
+<se>
+<w>Он<ana lex="он" gr="SPRO,sg,3p,m=nom"/></w> 
+<w>с<ana lex="с" gr="PR="/></w> 
+<w>каким-то<ana lex="какой-то" gr="APRO=dat,pl"/><ana lex="какой-то" gr="APRO=ins,sg,m"/><ana lex="какой-то" gr="APRO=ins,sg,n"/></w> 
+<w>парнем<ana lex="парень" gr="S,m,anim=ins,sg"/></w> 
+<w>что-то<ana lex="что-то" gr="SPRO,sg,n,inan=acc"/><ana lex="что-то" gr="SPRO,sg,n,inan=nom"/></w> 
+<w>не<ana lex="не" gr="PART="/></w> 
+<w>поделил<ana lex="поделить" gr="V,pf,tran=praet,sg,indic,m"/></w>. 
+</se>
+<se>
+<w>А<ana lex="а" gr="CONJ="/></w> 
+<w>Артур<ana lex="артур" gr="S,persn,m,anim=nom,sg"/></w> 
+<w>драться<ana lex="драться" gr="V,ipf,intr=inf"/></w> 
+<w>не<ana lex="не" gr="PART="/></w> 
+<w>умел<ana lex="уметь" gr="V,ipf,intr=praet,sg,indic,m"/></w>, 
+<w>ну<ana lex="ну" gr="PART="/></w>, 
+<w>я<ana lex="я" gr="SPRO,sg,1p=nom"/></w> 
+<w>за<ana lex="за" gr="PR="/></w> 
+<w>него<ana lex="он" gr="SPRO,sg,3p,m=acc"/><ana lex="он" gr="SPRO,sg,3p,m=gen"/></w> 
+<w>вступился<ana lex="вступиться" gr="V,pf,intr=praet,sg,indic,m"/></w>, 
+<distinct form="
+<w>тамня<ana lex="тамень" qual="bastard" gr="S,m,inan=gen,sg"/></w>"
+<w>там<ana lex="там" gr="ADVPRO="/></w> 
+<w>меня<ana lex="я" gr="SPRO,sg,1p=acc"/><ana lex="я" gr="SPRO,sg,1p=gen"/></w></distinct>
+<w>ножом<ana lex="нож" gr="S,m,inan=ins,sg"/></w> 
+<w>порезали<ana lex="порезать" gr="V,pf,tran=praet,pl,indic"/></w>... 
+<w>нормально<ana lex="нормально" gr="ADV="/></w>.
+<w>Илья<ana lex="илья" gr="S,persn,m,anim=nom,sg"/></w>@ 
+<distinct form="
+<w>знач<ana lex="знач" qual="bastard" gr="S,m,anim=nom,sg"/></w>"
+<w>значит<ana lex="значит" gr="CONJ="/></w>/
+<w>distinct</w>, 
+<w>вступился<ana lex="вступиться" gr="V,pf,intr=praet,sg,indic,m"/></w> 
+<w>за<ana lex="за" gr="PR="/></w> 
+<w>него<ana lex="он" gr="SPRO,sg,3p,m=acc"/><ana lex="он" gr="SPRO,sg,3p,m=gen"/></w>, 
+<w>а<ana lex="а" gr="CONJ="/></w> 
+<w>он<ana lex="он" gr="SPRO,sg,3p,m=nom"/></w> 
+<w>оказался<ana lex="оказаться" gr="V,pf,intr=praet,sg,indic,m"/></w> 
+<w>аристократом<ana lex="аристократ" gr="S,m,anim=ins,sg"/></w> 
+<w>каким-то<ana lex="какой-то" gr="APRO=dat,pl"/><ana lex="какой-то" gr="APRO=ins,sg,m"/><ana lex="какой-то" gr="APRO=ins,sg,n"/></w> 
+<w>там<ana lex="там" gr="ADVPRO="/></w>, 
+<distinct form="
+<w>бохатым<ana lex="бохатый" qual="bastard" gr="S,m,anim=dat,pl"/><ana lex="бохатый" qual="bastard" gr="S,m,anim=ins,sg"/></w>"
+<w>богатым<ana lex="богатый" gr="A=dat,pl,plen"/><ana lex="богатый" gr="A=ins,sg,plen,m"/><ana lex="богатый" gr="A=ins,sg,plen,n"/></w></distinct> 
+<w>был<ana lex="быть" gr="V,intr=praet,sg,indic,m,ipf"/></w>, 
+<w>все<ana lex="весь" gr="APRO=nom,pl"/><ana lex="весь" gr="APRO=acc,sg,n"/><ana lex="весь" gr="APRO=nom,sg,n"/><ana lex="весь" gr="APRO=acc,pl,inan"/></w> 
+<w>дела<ana lex="дело" gr="S,n,inan=acc,pl"/><ana lex="дело" gr="S,n,inan=gen,sg"/><ana lex="дело" gr="S,n,inan=nom,pl"/></w>... 
+<distinct form="
+<w>от<ana lex="от" gr="PR="/></w>"
+<w>вот<ana lex="вот" gr="PART="/></w></distinct>. 
+</se>
+<se>
+<w>Позвал<ana lex="позвать" gr="V,pf,tran=praet,sg,indic,m"/></w> 
+<w>меня<ana lex="я" gr="SPRO,sg,1p=acc"/><ana lex="я" gr="SPRO,sg,1p=gen"/></w> 
+<w>к<ana lex="к" gr="PR="/></w> 
+<w>себе<ana lex="себя" gr="SPRO=abl"/><ana lex="себя" gr="SPRO=dat"/></w> 
+<w>на<ana lex="на" gr="PR="/></w> 
+<w>обед<ana lex="обед" gr="S,m,inan=acc,sg"/><ana lex="обед" gr="S,m,inan=nom,sg"/></w>. 
+</se>
+<se>
+<w>Ну<ana lex="ну" gr="PART="/></w>, 
+<w>я<ana lex="я" gr="SPRO,sg,1p=nom"/></w>, 
+<distinct form="
+<w>знач<ana lex="знач" qual="bastard" gr="S,m,anim=nom,sg"/></w>"
+<w>значит<ana lex="значит" gr="CONJ="/></w></distinct>, 
+<w>нарядился<ana lex="нарядиться" gr="V,pf,intr=praet,sg,indic,m"/></w> 
+<w>в<ana lex="в" gr="PR="/></w> 
+<w>костюм<ana lex="костюм" gr="S,m,inan=acc,sg"/><ana lex="костюм" gr="S,m,inan=nom,sg"/></w>. 
+</se>
+<se>
+<w>Неловко<ana lex="неловко" gr="ADV="/></w> 
+<w>себя<ana lex="себя" gr="SPRO=acc"/><ana lex="себя" gr="SPRO=gen"/></w> 
+<w>чувствовал<ana lex="чувствовать" gr="V,ipf,tran=praet,sg,indic,m"/></w>, 
+<w>очень<ana lex="очень" gr="ADV="/></w> 
+<w>неловко<ana lex="неловко" gr="ADV="/></w>. 
+</se>
+<se>
+<w>Пошёл<ana lex="пойти" gr="V,pf,intr=praet,sg,indic,m"/></w> 
+<w>к<ana lex="к" gr="PR="/></w> 
+<w>нему<ana lex="он" gr="SPRO,sg,3p,m=dat"/></w> 
+<w>домой<ana lex="домой" gr="ADV="/></w>. 
+</se>
+<se>
+<w>А<ana lex="а" gr="CONJ="/></w> 
+<w>там<ana lex="там" gr="ADVPRO="/></w> 
+<w>ж<ana lex="ж" gr="PART="/></w> 
+<w>всё<ana lex="все" gr="SPRO,pl=acc"/><ana lex="все" gr="SPRO,pl=nom"/></w> 
+<w>такое<ana lex="такой" gr="APRO=acc,sg,n"/><ana lex="такой" gr="APRO=nom,sg,n"/></w>... 
+<w>элитное<ana lex="элитный" gr="A=acc,sg,plen,n"/><ana lex="элитный" gr="A=nom,sg,plen,n"/></w> - 
+<w>рояли<ana lex="рояль" gr="S,m,inan=acc,pl"/><ana lex="рояль" gr="S,m,inan=nom,pl"/></w>, 
+<w>не<ana lex="не" gr="PART="/></w> 
+<w>рояли<ana lex="рояль" gr="S,m,inan=acc,pl"/><ana lex="рояль" gr="S,m,inan=nom,pl"/></w>, 
+<w>высокие<ana lex="высокий" gr="A=acc,pl,plen,inan"/><ana lex="высокий" gr="A=nom,pl,plen"/></w> 
+<w>потолки<ana lex="потолок" gr="S,m,inan=acc,pl"/><ana lex="потолок" gr="S,m,inan=nom,pl"/></w>, 
+<w>всё<ana lex="все" gr="ADV="/></w>... 
+<w>всё<ana lex="все" gr="SPRO,pl=acc"/><ana lex="все" gr="SPRO,pl=nom"/></w> 
+<w>как<ana lex="как" gr="ADVPRO="/></w> 
+<w>надо<ana lex="надо" gr="ADV,praed="/></w>... 
+<w>вот<ana lex="вот" gr="PART="/></w>. 
+<w>Илья<ana lex="илья" gr="S,persn,m,anim=nom,sg"/></w>@ 
+<w>Сижу<ana lex="сидеть" gr="V,ipf,intr=inpraes,sg,indic,1p"/></w> 
+<w>я<ana lex="я" gr="SPRO,sg,1p=nom"/></w>, 
+<w>жду<ana lex="ждать" gr="V,ipf,tran=inpraes,sg,indic,1p"/></w> 
+<w>его<ana lex="его" gr="APRO=abl,pl"/><ana lex="его" gr="APRO=dat,pl"/><ana lex="его" gr="APRO=gen,pl"/><ana lex="его" gr="APRO=ins,pl"/><ana lex="его" gr="APRO=nom,pl"/><ana lex="его" gr="APRO=nom,sg,f"/><ana lex="его" gr="APRO=acc,sg,m,anim"/><ana lex="его" gr="APRO=gen,sg,m"/><ana lex="его" gr="APRO=gen,sg,n"/><ana lex="его" gr="APRO=acc,sg,n"/><ana lex="его" gr="APRO=nom,sg,n"/><ana lex="его" gr="APRO=abl,sg,f"/><ana lex="его" gr="APRO=dat,sg,f"/><ana lex="его" gr="APRO=gen,sg,f"/><ana lex="его" gr="APRO=ins,sg,f"/><ana lex="его" gr="APRO=abl,sg,m"/><ana lex="его" gr="APRO=abl,sg,n"/><ana lex="его" gr="APRO=dat,sg,m"/><ana lex="его" gr="APRO=dat,sg,n"/><ana lex="его" gr="APRO=acc,sg,f"/><ana lex="его" gr="APRO=acc,pl,inan"/><ana lex="его" gr="APRO=acc,sg,m,inan"/><ana lex="его" gr="APRO=nom,sg,m"/><ana lex="его" gr="APRO=ins,sg,m"/><ana lex="его" gr="APRO=ins,sg,n"/><ana lex="его" gr="APRO=acc,pl,anim"/><ana lex="его" gr="APRO=abl,pl,n"/><ana lex="его" gr="APRO=acc,pl,n"/><ana lex="его" gr="APRO=dat,pl,n"/><ana lex="его" gr="APRO=gen,pl,n"/><ana lex="его" gr="APRO=ins,pl,n"/><ana lex="его" gr="APRO=nom,pl,n"/><ana lex="его" gr="APRO=abl,pl,m"/><ana lex="его" gr="APRO=acc,pl,m"/><ana lex="его" gr="APRO=acc,sg,m"/><ana lex="его" gr="APRO=dat,pl,m"/></w>, 
+<w>чувствую<ana lex="чувствовать" gr="V,ipf,tran=inpraes,sg,indic,1p"/></w> 
+<w>себя<ana lex="себя" gr="SPRO=acc"/><ana lex="себя" gr="SPRO=gen"/></w> 
+<w>неловко<ana lex="неловко" gr="ADV="/></w>, 
+<w>очень<ana lex="очень" gr="ADV="/></w> 
+<w>неловко<ana lex="неловко" gr="ADV="/></w>. 
+</se>
+<se>
+<w>Ну<ana lex="ну" gr="PART="/></w>, 
+<w>пришёл<ana lex="прийти" gr="V,pf,intr=praet,sg,indic,m"/></w>, 
+<distinct form="
+<w>значт<ana lex="значта" qual="bastard" gr="S,f,inan=gen,pl"/></w>"
+<w>значит<ana lex="значит" gr="ADV,parenth="/></w>/
+<w>distinct</w>, 
+<w>там<ana lex="там" gr="ADVPRO="/></w> 
+<w>отец<ana lex="отец" gr="S,m,anim=nom,sg"/></w> 
+<w>его<ana lex="его" gr="APRO=abl,pl"/><ana lex="его" gr="APRO=dat,pl"/><ana lex="его" gr="APRO=gen,pl"/><ana lex="его" gr="APRO=ins,pl"/><ana lex="его" gr="APRO=nom,pl"/><ana lex="его" gr="APRO=nom,sg,f"/><ana lex="его" gr="APRO=acc,sg,m,anim"/><ana lex="его" gr="APRO=gen,sg,m"/><ana lex="его" gr="APRO=gen,sg,n"/><ana lex="его" gr="APRO=acc,sg,n"/><ana lex="его" gr="APRO=nom,sg,n"/><ana lex="его" gr="APRO=abl,sg,f"/><ana lex="его" gr="APRO=dat,sg,f"/><ana lex="его" gr="APRO=gen,sg,f"/><ana lex="его" gr="APRO=ins,sg,f"/><ana lex="его" gr="APRO=abl,sg,m"/><ana lex="его" gr="APRO=abl,sg,n"/><ana lex="его" gr="APRO=dat,sg,m"/><ana lex="его" gr="APRO=dat,sg,n"/><ana lex="его" gr="APRO=acc,sg,f"/><ana lex="его" gr="APRO=acc,pl,inan"/><ana lex="его" gr="APRO=acc,sg,m,inan"/><ana lex="его" gr="APRO=nom,sg,m"/><ana lex="его" gr="APRO=ins,sg,m"/><ana lex="его" gr="APRO=ins,sg,n"/><ana lex="его" gr="APRO=acc,pl,anim"/><ana lex="его" gr="APRO=abl,pl,n"/><ana lex="его" gr="APRO=acc,pl,n"/><ana lex="его" gr="APRO=dat,pl,n"/><ana lex="его" gr="APRO=gen,pl,n"/><ana lex="его" gr="APRO=ins,pl,n"/><ana lex="его" gr="APRO=nom,pl,n"/><ana lex="его" gr="APRO=abl,pl,m"/><ana lex="его" gr="APRO=acc,pl,m"/><ana lex="его" gr="APRO=acc,sg,m"/><ana lex="его" gr="APRO=dat,pl,m"/></w> 
+<w>был<ana lex="быть" gr="V,intr=praet,sg,indic,m,ipf"/></w>, 
+<w>сестра<ana lex="сестра" gr="S,f,anim=nom,sg"/></w>, 
+<w>мать<ana lex="мать" gr="S,sg,f,anim=acc"/><ana lex="мать" gr="S,sg,f,anim=nom"/></w>. 
+</se>
+<se>
+<w>Поел<ana lex="поесть" gr="V,pf,tran=praet,sg,indic,m"/></w>, 
+<w>поел<ana lex="поесть" gr="V,pf,tran=praet,sg,indic,m"/></w> 
+<w>и<ana lex="и" gr="CONJ="/></w> 
+<w>ушёл<ana lex="уйти" gr="V,pf,intr=praet,sg,indic,m"/></w>. 
+</se>
+<se>
+<w>Вот<ana lex="вот" gr="PART="/></w>. 
+</se>
+<se>
+<w>Они<ana lex="они" gr="SPRO,pl=nom"/></w> 
+<w>мне<ana lex="я" gr="SPRO,sg,1p=abl"/><ana lex="я" gr="SPRO,sg,1p=dat"/></w> 
+<w>спасибо<ana lex="спасибо" gr="S,n,inan=abl,pl"/><ana lex="спасибо" gr="S,n,inan=abl,sg"/><ana lex="спасибо" gr="S,n,inan=acc,pl"/><ana lex="спасибо" gr="S,n,inan=acc,sg"/><ana lex="спасибо" gr="S,n,inan=dat,pl"/><ana lex="спасибо" gr="S,n,inan=dat,sg"/><ana lex="спасибо" gr="S,n,inan=gen,pl"/><ana lex="спасибо" gr="S,n,inan=gen,sg"/><ana lex="спасибо" gr="S,n,inan=ins,pl"/><ana lex="спасибо" gr="S,n,inan=ins,sg"/><ana lex="спасибо" gr="S,n,inan=nom,pl"/><ana lex="спасибо" gr="S,n,inan=nom,sg"/></w> 
+<w>сказали<ana lex="сказать" gr="V,pf,tran=praet,pl,indic"/></w>. 
+</se>
+<se>
+<w>Поел<ana lex="поесть" gr="V,pf,tran=praet,sg,indic,m"/></w>, 
+<w>ушёл<ana lex="уйти" gr="V,pf,intr=praet,sg,indic,m"/></w>, 
+<w>и<ana lex="и" gr="CONJ="/></w> 
+<w>всё<ana lex="все" gr="SPRO,pl=acc"/><ana lex="все" gr="SPRO,pl=nom"/></w>. 
+</se>
+<se>
+<w>Потом<ana lex="потом" gr="ADVPRO="/></w> 
+<w>опять<ana lex="опять" gr="ADV="/></w> 
+<w>в<ana lex="в" gr="PR="/></w> 
+<w>плавание<ana lex="плавание" gr="S,n,inan=acc,sg"/><ana lex="плавание" gr="S,n,inan=nom,sg"/></w> 
+<w>ушёл<ana lex="уйти" gr="V,pf,intr=praet,sg,indic,m"/></w>. 
+</se>
+<se>
+<w>Плавал<ana lex="плавать" gr="V,ipf,intr=praet,sg,indic,m"/></w>, 
+<w>долго<ana lex="долго" gr="ADV="/></w> 
+<w>плавал<ana lex="плавать" gr="V,ipf,intr=praet,sg,indic,m"/></w>, 
+<w>не<ana lex="не" gr="PART="/></w> 
+<w>любил<ana lex="любить" gr="V,ipf,tran=praet,sg,indic,m"/></w> 
+<w>долго<ana lex="долго" gr="ADV="/></w> 
+<w>плавать<ana lex="плавать" gr="V,ipf,intr=inf"/></w>, 
+<w>но<ana lex="но" gr="CONJ="/></w> 
+<w>работать<ana lex="работать" gr="V,ipf,intr=inf"/></w> 
+<w>надо<ana lex="надо" gr="ADV,praed="/></w> 
+<w>было<ana lex="быть" gr="V,intr=praet,sg,indic,n,ipf"/></w>, 
+<w>деньги<ana lex="деньги" gr="S,pl,inan=acc"/><ana lex="деньги" gr="S,pl,inan=nom"/></w> 
+<w>были<ana lex="быть" gr="V,intr=praet,pl,indic,ipf"/></w> 
+<w>нужны<ana lex="нужный" gr="A=pl,brev"/></w>, 
+<w>а<ana lex="а" gr="CONJ="/></w> 
+<w>по-другому<ana lex="по-другому" gr="ADV="/></w> 
+<w>зарабатывать<ana lex="зарабатывать" gr="V,ipf,tran=inf"/></w> 
+<w>не<ana lex="не" gr="PART="/></w> 
+<w>умел<ana lex="уметь" gr="V,ipf,intr=praet,sg,indic,m"/></w>, 
+<w>да<ana lex="да" gr="PART="/></w>... 
+<w>Илья<ana lex="илья" gr="S,persn,m,anim=nom,sg"/></w>@ 
+<w>Вот<ana lex="вот" gr="PART="/></w> 
+<w>плавать<ana lex="плавать" gr="V,ipf,intr=inf"/></w> 
+<w>не<ana lex="не" gr="PART="/></w> 
+<w>любил<ana lex="любить" gr="V,ipf,tran=praet,sg,indic,m"/></w>. 
+</se>
+<se>
+<w>Сушу<ana lex="суша" gr="S,f,inan=acc,sg"/></w> 
+<w>любил<ana lex="любить" gr="V,ipf,tran=praet,sg,indic,m"/></w>. 
+</se>
+<se>
+<w>И<ana lex="и" gr="CONJ="/></w> 
+<w>потом<ana lex="потом" gr="ADVPRO="/></w> 
+<w>как-то<ana lex="как-то" gr="ADVPRO="/></w> 
+<w>думаю<ana lex="думать" gr="V,ipf,intr=inpraes,sg,indic,1p"/></w>: 
+<w>а<ana lex="а" gr="CONJ="/></w> 
+<distinct form="
+<w>шо</w>"
+<w>что<ana lex="что" gr="CONJ="/></w></distinct>
+<w>я<ana lex="я" gr="SPRO,sg,1p=nom"/></w> 
+<w>моряком<ana lex="моряк" gr="S,m,anim=ins,sg"/></w> 
+<w>работаю<ana lex="работать" gr="V,ipf,intr=inpraes,sg,indic,1p"/></w>? 
+</se>
+<se>
+<w>Надоело<ana lex="надоесть" gr="V,pf,intr=praet,sg,indic,n"/></w> 
+<w>мне<ana lex="я" gr="SPRO,sg,1p=abl"/><ana lex="я" gr="SPRO,sg,1p=dat"/></w>. 
+</se>
+<se>
+<w>Ну<ana lex="ну" gr="PART="/></w>, 
+<w>думаю<ana lex="думать" gr="V,ipf,intr=inpraes,sg,indic,1p"/></w>, 
+<w>дай<ana lex="дать" gr="V,pf,tran=sg,imper,2p"/></w>  
+<w>образованием<ana lex="образование" gr="S,n,inan=ins,sg"/></w> 
+<w>займусь<ana lex="заняться" gr="V,pf,intr=inpraes,sg,indic,1p"/></w>, 
+<w>начал<ana lex="начало" gr="S,n,inan=gen,pl"/></w> 
+<w>книжки<ana lex="книжка" gr="S,f,inan=acc,pl"/><ana lex="книжка" gr="S,f,inan=gen,sg"/><ana lex="книжка" gr="S,f,inan=nom,pl"/></w> 
+<w>всякие<ana lex="всякий" gr="APRO=acc,pl,plen,inan"/><ana lex="всякий" gr="APRO=nom,pl,plen"/></w> 
+<w>заумные<ana lex="заумный" gr="A=acc,pl,plen,inan"/><ana lex="заумный" gr="A=nom,pl,plen"/></w> 
+<w>читать<ana lex="читать" gr="V,ipf,tran=inf"/></w>. 
+</se>
+<se>
+<w>Ну<ana lex="ну" gr="PART="/></w>, 
+<distinct form="
+<w>шобы<ana lex="шобы" qual="bastard" gr="S,pl,inan=acc"/><ana lex="шобы" qual="bastard" gr="S,pl,inan=nom"/></w>"
+<w>чтобы<ana lex="чтобы" gr="CONJ="/></w></distinct>
+<w>умным<ana lex="умный" gr="A=dat,pl,plen"/><ana lex="умный" gr="A=ins,sg,plen,m"/><ana lex="умный" gr="A=ins,sg,plen,n"/></w> 
+<w>стать<ana lex="стать" gr="S,f,inan=acc,sg"/><ana lex="стать" gr="S,f,inan=nom,sg"/></w>. 
+</se>
+<se>
+<w>Читал<ana lex="читать" gr="V,ipf,tran=praet,sg,indic,m"/></w>, 
+<w>читал<ana lex="читать" gr="V,ipf,tran=praet,sg,indic,m"/></w> - 
+<w>стал<ana lex="стать" gr="V,pf,intr=praet,sg,indic,m"/></w> 
+<w>умным<ana lex="умный" gr="A=dat,pl,plen"/><ana lex="умный" gr="A=ins,sg,plen,m"/><ana lex="умный" gr="A=ins,sg,plen,n"/></w>, 
+<w>писать<ana lex="писать" gr="V,ipf,tran=inf"/></w> 
+<w>начал<ana lex="начало" gr="S,n,inan=gen,pl"/></w>. 
+</se>
+<se>
+<w>Писал<ana lex="писать" gr="V,ipf,tran=praet,sg,indic,m"/></w>, 
+<w>продавал<ana lex="продавать" gr="V,ipf,tran=praet,sg,indic,m"/></w>... 
+<w>ну<ana lex="ну" gr="PART="/></w>, 
+<w>как<ana lex="как" gr="CONJ="/></w> 
+<w>продавал<ana lex="продавать" gr="V,ipf,tran=praet,sg,indic,m"/></w> - 
+<w>отсылал<ana lex="отсылать" gr="V,ipf,tran=praet,sg,indic,m"/></w> 
+<w>то<ana lex="то" gr="SPRO,sg,n,inan=acc"/><ana lex="то" gr="SPRO,sg,n,inan=nom"/></w>, 
+<w>что<ana lex="что" gr="CONJ="/></w> 
+<w>писал<ana lex="писать" gr="V,ipf,tran=praet,sg,indic,m"/></w>, 
+<w>а<ana lex="а" gr="CONJ="/></w> 
+<w>оно<ana lex="оно" gr="SPRO,sg,3p,n=nom"/></w> 
+<w>не<ana lex="не" gr="PART="/></w> 
+<w>продавалось<ana lex="продаваться" gr="V,ipf,intr=praet,sg,indic,n"/></w>. 
+</se>
+<se>
+<w>Вот<ana lex="вот" gr="PART="/></w>. 
+</se>
+<se>
+<w>Потом<ana lex="потом" gr="ADVPRO="/></w> 
+<w>как-то<ana lex="как-то" gr="ADVPRO="/></w> 
+<distinct form="
+<w>шото<ana lex="шото" qual="bastard" gr="S,n,inan=abl,pl"/><ana lex="шото" qual="bastard" gr="S,n,inan=abl,sg"/><ana lex="шото" qual="bastard" gr="S,n,inan=acc,pl"/><ana lex="шото" qual="bastard" gr="S,n,inan=acc,sg"/><ana lex="шото" qual="bastard" gr="S,n,inan=dat,pl"/><ana lex="шото" qual="bastard" gr="S,n,inan=dat,sg"/><ana lex="шото" qual="bastard" gr="S,n,inan=gen,pl"/><ana lex="шото" qual="bastard" gr="S,n,inan=gen,sg"/><ana lex="шото" qual="bastard" gr="S,n,inan=ins,pl"/><ana lex="шото" qual="bastard" gr="S,n,inan=ins,sg"/><ana lex="шото" qual="bastard" gr="S,n,inan=nom,pl"/><ana lex="шото" qual="bastard" gr="S,n,inan=nom,sg"/></w>"
+<w>что-то<ana lex="что-то" gr="SPRO,sg,n,inan=acc"/><ana lex="что-то" gr="SPRO,sg,n,inan=nom"/></w></distinct>
+<w>продалось<ana lex="продаться" gr="V,pf,intr=praet,sg,indic,n"/></w>, 
+<w>одно<ana lex="один" gr="APRO=acc,sg,n"/><ana lex="один" gr="APRO=nom,sg,n"/></w> 
+<w>за<ana lex="за" gr="PR="/></w> 
+<w>другим<ana lex="другой" gr="APRO=dat,pl"/><ana lex="другой" gr="APRO=ins,sg,m"/><ana lex="другой" gr="APRO=ins,sg,n"/></w>, 
+<w>второе<ana lex="второе" gr="S,n,inan=acc,sg"/><ana lex="второе" gr="S,n,inan=nom,sg"/></w> 
+<w>за<ana lex="за" gr="PR="/></w> 
+<w>третьим<ana lex="третий" gr="ANUM=dat,pl"/><ana lex="третий" gr="ANUM=ins,sg,m"/><ana lex="третий" gr="ANUM=ins,sg,n"/></w>, 
+<w>и<ana lex="и" gr="CONJ="/></w> 
+<w>пошло<ana lex="пойти" gr="V,pf,intr=praet,sg,indic,n"/></w>-
+<w>поехало<ana lex="поехать" gr="V,pf,intr=praet,sg,indic,n"/></w>, 
+<w>стал<ana lex="стать" gr="V,pf,intr=praet,sg,indic,m"/></w> 
+<w>я<ana lex="я" gr="SPRO,sg,1p=nom"/></w>, 
+<w>значит<ana lex="значит" gr="ADV,parenth="/></w>, 
+<w>писателем<ana lex="писатель" gr="S,m,anim=ins,sg"/></w> 
+<w>известным<ana lex="известный" gr="A=dat,pl,plen"/><ana lex="известный" gr="A=ins,sg,plen,m"/><ana lex="известный" gr="A=ins,sg,plen,n"/></w>. 
+</se>
+<se>
+<w>Денег<ana lex="деньги" gr="S,pl,inan=gen"/></w> 
+<w>у<ana lex="у" gr="PR="/></w> 
+<w>меня<ana lex="я" gr="SPRO,sg,1p=acc"/><ana lex="я" gr="SPRO,sg,1p=gen"/></w> 
+<w>много<ana lex="много" gr="ADV,praed="/></w> 
+<w>стало<ana lex="стать" gr="V,pf,intr=praet,sg,indic,n"/></w>. 
+</se>
+<se>
+<w>А<ana lex="а" gr="CONJ="/></w> 
+<w>мне<ana lex="я" gr="SPRO,sg,1p=abl"/><ana lex="я" gr="SPRO,sg,1p=dat"/></w> 
+<w>это<ana lex="это" gr="PART="/></w> 
+<distinct form="
+<w>чёт<ana lex="чет" gr="S,m,inan=acc,sg"/><ana lex="чет" gr="S,m,inan=nom,sg"/></w>"
+<w>что-то<ana lex="что-то" gr="SPRO,sg,n,inan=acc"/><ana lex="что-то" gr="SPRO,sg,n,inan=nom"/></w></distinct>
+<w>не<ana lex="не" gr="PART="/></w> 
+<w>понравилось<ana lex="понравиться" gr="V,pf,intr=praet,sg,indic,n"/></w>. 
+</se>
+<se>
+<w>Потому<ana lex="потому" gr="ADVPRO="/></w> 
+<w>что<ana lex="что" gr="CONJ="/></w> 
+<w>что<ana lex="что" gr="CONJ="/></w> 
+<w>я<ana lex="я" gr="SPRO,sg,1p=nom"/></w> 
+<w>хорошее<ana lex="хороший" gr="A=acc,sg,plen,n"/><ana lex="хороший" gr="A=nom,sg,plen,n"/></w> 
+<w>писал<ana lex="писать" gr="V,ipf,tran=praet,sg,indic,m"/></w>, 
+<w>никому<ana lex="никто" gr="SPRO,sg,m,anim=dat"/></w> 
+<w>не<ana lex="не" gr="PART="/></w> 
+<w>нравилось<ana lex="нравиться" gr="V,ipf,intr=praet,sg,indic,n"/></w>, 
+<w>потом<ana lex="потом" gr="ADVPRO="/></w> 
+<w>то<ana lex="то" gr="SPRO,sg,n,inan=acc"/><ana lex="то" gr="SPRO,sg,n,inan=nom"/></w>, 
+<w>что<ana lex="что" gr="SPRO,sg,n,inan=acc"/><ana lex="что" gr="SPRO,sg,n,inan=nom"/></w> 
+<w>было<ana lex="быть" gr="V,intr=praet,sg,indic,n,ipf"/></w> 
+<w>не<ana lex="не" gr="PART="/></w> 
+<w>очень<ana lex="очень" gr="ADV="/></w> 
+<w>хорошим<ana lex="хороший" gr="A=dat,pl,plen"/><ana lex="хороший" gr="A=ins,sg,plen,m"/><ana lex="хороший" gr="A=ins,sg,plen,n"/></w>, 
+<distinct form="
+<w>прода<ana lex="прод" qual="bastard" gr="S,m,inan=gen,sg"/></w>’
+<w>лось<ana lex="лось" gr="S,m,anim=nom,sg"/></w>"
+<w>продалось<ana lex="продаться" gr="V,pf,intr=praet,sg,indic,n"/></w></distinct>, 
+<w>и<ana lex="и" gr="CONJ="/></w> 
+<w>всё<ana lex="весь" gr="APRO=nom,pl"/><ana lex="весь" gr="APRO=acc,sg,n"/><ana lex="весь" gr="APRO=nom,sg,n"/><ana lex="весь" gr="APRO=acc,pl,inan"/></w> 
+<w>остальное<ana lex="остальное" gr="S,n,inan=acc,sg"/><ana lex="остальное" gr="S,n,inan=nom,sg"/></w> 
+<w>стало<ana lex="стать" gr="V,pf,intr=praet,sg,indic,n"/></w> 
+<w>продаваться<ana lex="продаваться" gr="V,ipf,intr=inf"/></w>. 
+<w>Илья<ana lex="илья" gr="S,persn,m,anim=nom,sg"/></w>@ 
+<w>Ну<ana lex="ну" gr="PART="/></w>, 
+<w>расстроился<ana lex="расстроиться" gr="V,pf,intr=praet,sg,indic,m"/></w> 
+<w>я<ana lex="я" gr="SPRO,sg,1p=nom"/></w>, 
+<w>значит<ana lex="значит" gr="ADV,parenth="/></w>, 
+<w>сел<ana lex="село" gr="S,n,inan=gen,pl"/></w> 
+<w>на<ana lex="на" gr="PR="/></w> 
+<w>корабль<ana lex="корабль" gr="S,m,inan=acc,sg"/><ana lex="корабль" gr="S,m,inan=nom,sg"/></w>. 
+</se>
+<se>
+<w>Ну<ana lex="ну" gr="PART="/></w> 
+<w>он<ana lex="он" gr="SPRO,sg,3p,m=nom"/></w> 
+<w>шёл<ana lex="идти" gr="V,ipf,intr=praet,sg,indic,m"/></w>-
+<w>шёл<ana lex="идти" gr="V,ipf,intr=praet,sg,indic,m"/></w>-
+<w>шёл<ana lex="идти" gr="V,ipf,intr=praet,sg,indic,m"/></w>-
+<w>шёл<ana lex="идти" gr="V,ipf,intr=praet,sg,indic,m"/></w>-
+<w>шёл<ana lex="идти" gr="V,ipf,intr=praet,sg,indic,m"/></w>, 
+<w>ну<ana lex="ну" gr="PART="/></w>, 
+<w>я<ana lex="я" gr="SPRO,sg,1p=nom"/></w>, 
+<distinct form="
+<w>начит<ana lex="начит" qual="bastard" gr="ADV,parenth="/></w>"
+<w>значит<ana lex="значит" gr="ADV,parenth="/></w></distinct>, 
+<w>посреди<ana lex="посреди" gr="PR="/></w> 
+<w>океана<ana lex="океан" gr="S,m,inan=gen,sg"/></w> 
+<w>взял<ana lex="взять" gr="V,pf,tran=praet,sg,indic,m"/></w>, 
+<w>вышел<ana lex="выйти" gr="V,pf=praet,sg,indic,m"/></w> 
+<w>на<ana lex="на" gr="PR="/></w> 
+<w>палубу<ana lex="палуба" gr="S,f,inan=acc,sg"/></w>, 
+<w>спрыгнул<ana lex="спрыгнуть" gr="V,pf,intr=praet,sg,indic,m"/></w>, 
+<w>вот<ana lex="вот" gr="PART="/></w>. 
+</se>
+<se>
+<w>Болтаюсь<ana lex="болтаться" gr="V,ipf,intr=inpraes,sg,indic,1p"/></w> 
+<w>в<ana lex="в" gr="PR="/></w> 
+<w>воде<ana lex="вода" gr="S,f,inan=abl,sg"/><ana lex="вода" gr="S,f,inan=dat,sg"/></w>, 
+<w>холодно<ana lex="холодно" gr="ADV="/></w>. 
+</se>
+<se>
+<w>Думаю<ana lex="думать" gr="V,ipf,intr=inpraes,sg,indic,1p"/></w>: 
+<w>что<ana lex="что" gr="CONJ="/></w> 
+<w>делать<ana lex="делать" gr="V,ipf,tran=inf"/></w>? 
+</se>
+<se>
+<w>Ну<ana lex="ну" gr="PART="/></w>, 
+<w>думаю<ana lex="думать" gr="V,ipf,intr=inpraes,sg,indic,1p"/></w>, 
+<w>возьму<ana lex="взять" gr="V,pf,tran=inpraes,sg,indic,1p"/></w> - 
+<w>утоплюсь<ana lex="утопиться" gr="V,pf,intr=inpraes,sg,indic,1p"/></w>. 
+</se>
+<se>
+<w>Ныряю<ana lex="нырять" gr="V,ipf,intr=inpraes,sg,indic,1p"/></w>, 
+<w>пытаюсь<ana lex="пытаться" gr="V,ipf,intr=inpraes,sg,indic,1p"/></w> 
+<w>утонуть<ana lex="утонуть" gr="V,pf,intr=inf"/></w>, 
+<w>а<ana lex="а" gr="CONJ="/></w> 
+<distinct form="
+<w>чёт<ana lex="чет" gr="S,m,inan=acc,sg"/><ana lex="чет" gr="S,m,inan=nom,sg"/></w>"
+<w>что-то<ana lex="что-то" gr="SPRO,sg,n,inan=acc"/><ana lex="что-то" gr="SPRO,sg,n,inan=nom"/></w></distinct>
+<w>не<ana lex="не" gr="PART="/></w> 
+<w>получается<ana lex="получаться" gr="V,ipf,intr=inpraes,sg,indic,3p"/></w>. 
+</se>
+<se>
+<w>Я<ana lex="я" gr="SPRO,sg,1p=nom"/></w> 
+<w>думаю<ana lex="думать" gr="V,ipf,intr=inpraes,sg,indic,1p"/></w>, 
+<w>а<ana lex="а" gr="CONJ="/></w> 
+<distinct form="
+<w>чё<ana lex="че" gr="S,n,inan=abl,pl"/><ana lex="че" gr="S,n,inan=abl,sg"/><ana lex="че" gr="S,n,inan=acc,pl"/><ana lex="че" gr="S,n,inan=acc,sg"/><ana lex="че" gr="S,n,inan=dat,pl"/><ana lex="че" gr="S,n,inan=dat,sg"/><ana lex="че" gr="S,n,inan=gen,pl"/><ana lex="че" gr="S,n,inan=gen,sg"/><ana lex="че" gr="S,n,inan=ins,pl"/><ana lex="че" gr="S,n,inan=ins,sg"/><ana lex="че" gr="S,n,inan=nom,pl"/><ana lex="че" gr="S,n,inan=nom,sg"/></w>"
+<w>что<ana lex="что" gr="ADVPRO="/></w></distinct>
+<w>такое<ana lex="такой" gr="APRO=acc,sg,n"/><ana lex="такой" gr="APRO=nom,sg,n"/></w>? 
+</se>
+<se>
+<w>Ну<ana lex="ну" gr="PART="/></w>, 
+<w>понял<ana lex="понять" gr="V,pf=praet,sg,indic,m"/></w> 
+<w>я<ana lex="я" gr="SPRO,sg,1p=nom"/></w>, 
+<distinct form="
+<w>шо</w>"
+<w>что<ana lex="что" gr="CONJ="/></w></distinct>
+<w>это<ana lex="это" gr="PART="/></w>, 
+<w>значит<ana lex="значить" gr="V,ipf,tran=inpraes,sg,indic,3p"/></w>, 
+<w>тяга<ana lex="тяга" gr="S,f,inan=nom,sg"/></w> 
+<w>к<ana lex="к" gr="PR="/></w> 
+<w>жизни<ana lex="жизнь" gr="S,f,inan=abl,sg"/><ana lex="жизнь" gr="S,f,inan=acc,pl"/><ana lex="жизнь" gr="S,f,inan=dat,sg"/><ana lex="жизнь" gr="S,f,inan=gen,sg"/><ana lex="жизнь" gr="S,f,inan=nom,pl"/></w>, 
+<w>вот<ana lex="вот" gr="PART="/></w>. 
+</se>
+<se>
+<w>Не<ana lex="не" gr="PART="/></w> 
+<w>получилось<ana lex="получиться" gr="V,pf,intr=praet,sg,indic,n"/></w> 
+<w>у<ana lex="у" gr="PR="/></w> 
+<w>меня<ana lex="я" gr="SPRO,sg,1p=acc"/><ana lex="я" gr="SPRO,sg,1p=gen"/></w> 
+<w>утопиться<ana lex="утопиться" gr="V,pf,intr=inf"/></w>. 
+</se>
+<se>
+<w>Не<ana lex="не" gr="PART="/></w> 
+<w>получилось<ana lex="получиться" gr="V,pf,intr=praet,sg,indic,n"/></w>. 
+</se>
+<se>
+<w>Сначала<ana lex="сначала" gr="ADV="/></w> 
+<w>не<ana lex="не" gr="PART="/></w> 
+<w>получилось<ana lex="получиться" gr="V,pf,intr=praet,sg,indic,n"/></w>, 
+<w>а<ana lex="а" gr="CONJ="/></w> 
+<w>потом<ana lex="потом" gr="ADVPRO="/></w> 
+<w>я<ana lex="я" gr="SPRO,sg,1p=nom"/></w> 
+<w>как<ana lex="как" gr="ADVPRO="/></w> 
+<w>поглубже<ana lex="глубоко" gr="ADV=comp"/></w> 
+<w>занырнул<ana lex="занырнуть" qual="bastard" gr="V,pf,intr=praet,sg,indic,m"/></w>, 
+<w>давай<ana lex="давать" gr="V,ipf,tran=sg,imper,2p"/></w>, 
+<w>прям<ana lex="прямой" gr="A=sg,brev,m"/></w> 
+<w>вот<ana lex="вот" gr="PART="/></w> 
+<w>глубоко<ana lex="глубоко" gr="ADV="/></w>-
+<w>глубоко<ana lex="глубоко" gr="ADV="/></w> 
+<w>ушёл<ana lex="уйти" gr="V,pf,intr=praet,sg,indic,m"/></w>-
+<w>ушёл<ana lex="уйти" gr="V,pf,intr=praet,sg,indic,m"/></w>-
+<w>ушёл<ana lex="уйти" gr="V,pf,intr=praet,sg,indic,m"/></w>. 
+</se>
+<se>
+<w>Ну<ana lex="ну" gr="PART="/></w>, 
+<distinct form="
+<w>естесно<ana lex="естесно" qual="bastard" gr="ADV="/></w>"
+<w>естественно<ana lex="естественно" gr="ADV=parenth"/></w></distinct>, 
+<w>пытаюсь<ana lex="пытаться" gr="V,ipf,intr=inpraes,sg,indic,1p"/></w> 
+<w>всплыть<ana lex="всплыть" gr="V,pf,intr=inf"/></w>, 
+<w>а<ana lex="а" gr="CONJ="/></w> 
+<w>не<ana lex="не" gr="PART="/></w> 
+<w>получается<ana lex="получаться" gr="V,ipf,intr=inpraes,sg,indic,3p"/></w>, 
+<w>воздуха<ana lex="воздух" gr="S,m,inan=gen,sg"/></w> 
+<w>не<ana lex="не" gr="PART="/></w> 
+<w>хватает<ana lex="хватать" gr="V,ipf=inpraes,sg,indic,3p"/><ana lex="хватать" gr="V,ipf=inpraes,indic"/></w>, 
+<w>я<ana lex="я" gr="SPRO,sg,1p=nom"/></w> 
+<w>давай<ana lex="давать" gr="V,ipf,tran=sg,imper,2p"/></w> 
+<w>вдыхать<ana lex="вдыхать" gr="V,ipf,tran=inf"/></w>, 
+<w>а<ana lex="а" gr="CONJ="/></w> 
+<w>там<ana lex="там" gr="ADVPRO="/></w> 
+<w>вода<ana lex="вода" gr="S,f,inan=nom,sg"/></w>. 
+</se>
+<se>
+<w>Ну<ana lex="ну" gr="PART="/></w> 
+<w>и<ana lex="и" gr="CONJ="/></w> 
+<w>полные<ana lex="полный" gr="A=acc,pl,plen,inan"/><ana lex="полный" gr="A=nom,pl,plen"/></w> 
+<w>лёгкие<ana lex="легкое" gr="S,n,inan=acc,pl"/><ana lex="легкое" gr="S,n,inan=nom,pl"/></w> 
+<w>у<ana lex="у" gr="PR="/></w> 
+<w>меня<ana lex="я" gr="SPRO,sg,1p=acc"/><ana lex="я" gr="SPRO,sg,1p=gen"/></w> 
+<w>воды<ana lex="вода" gr="S,f,inan=acc,pl"/><ana lex="вода" gr="S,f,inan=gen,sg"/><ana lex="вода" gr="S,f,inan=nom,pl"/></w>, 
+<w>ну<ana lex="ну" gr="PART="/></w> 
+<w>и<ana lex="и" gr="CONJ="/></w> 
+<w>утонул<ana lex="утонуть" gr="V,pf,intr=praet,sg,indic,m"/></w> 
+<w>я<ana lex="я" gr="SPRO,sg,1p=nom"/></w> 
+<w>в<ana lex="в" gr="PR="/></w> 
+<w>общем<ana lex="общий" gr="A=abl,sg,plen,m"/><ana lex="общий" gr="A=abl,sg,plen,n"/></w>, 
+<w>вот<ana lex="вот" gr="PART="/></w>. 
+</se>
+<se>
+<w>Было<ana lex="быть" gr="V,intr=praet,sg,indic,n,ipf"/></w> 
+<w>грустно<ana lex="грустно" gr="ADV="/></w>. 
+</se>
+<se>
+<w>Умер<ana lex="умереть" gr="V,pf,intr=praet,sg,indic,m"/></w>. 
+</se>
+<se>
+<w>Получилось<ana lex="получиться" gr="V,pf,intr=praet,sg,indic,n"/></w> 
+<w>не<ana lex="не" gr="PART="/></w> 
+<w>сразу<ana lex="сразу" gr="ADV="/></w>. 
+</se>
+<se>
+<w>Но<ana lex="но" gr="CONJ="/></w> 
+<w>умер<ana lex="умереть" gr="V,pf,intr=praet,sg,indic,m"/></w>, 
+<w>да<ana lex="да" gr="PART="/></w>, 
+<w>а<ana lex="а" gr="CONJ="/></w> 
+<w>вот<ana lex="вот" gr="PART="/></w> 
+<distinct form="
+<w>щас<ana lex="щас" gr="ADV,inform="/></w>"
+<w>сейчас<ana lex="сейчас" gr="ADV="/></w></distinct>
+<w>вот<ana lex="вот" gr="PART="/></w> 
+<w>живу<ana lex="жить" gr="V,ipf,intr=inpraes,sg,indic,1p"/></w>, 
+<w>да<ana lex="да" gr="PART="/></w>. 
+<w>Илья<ana lex="илья" gr="S,persn,m,anim=nom,sg"/></w>@ 
+<w>Ну<ana lex="ну" gr="PART="/></w>, 
+<w>это<ana lex="это" gr="SPRO,sg,n,inan=acc"/><ana lex="это" gr="SPRO,sg,n,inan=nom"/></w> 
+<w>давно<ana lex="давно" gr="ADV="/></w> 
+<w>было<ana lex="быть" gr="V,intr=praet,sg,indic,n,ipf"/></w> 
+<w>правда<ana lex="правда" gr="ADV,parenth="/></w>. 
+</se>
+<se>
+<w>А<ana lex="а" gr="S,abbr=abl,pl"/><ana lex="а" gr="S,abbr=abl,sg"/><ana lex="а" gr="S,abbr=acc,pl"/><ana lex="а" gr="S,abbr=acc,sg"/><ana lex="а" gr="S,abbr=dat,pl"/><ana lex="а" gr="S,abbr=dat,sg"/><ana lex="а" gr="S,abbr=gen,pl"/><ana lex="а" gr="S,abbr=gen,sg"/><ana lex="а" gr="S,abbr=ins,pl"/><ana lex="а" gr="S,abbr=ins,sg"/><ana lex="а" gr="S,abbr=nom,pl"/><ana lex="а" gr="S,abbr=nom,sg"/></w> 
+<distinct form="
+<w>щас<ana lex="щас" gr="ADV,inform="/></w>"
+<w>сейчас<ana lex="сейчас" gr="ADV="/></w></distinct>
+<w>недавно<ana lex="недавно" gr="ADV="/></w>, 
+<distinct form="
+<w>щас<ana lex="щас" gr="ADV,inform="/></w>"
+<w>сейчас<ana lex="сейчас" gr="ADV="/></w></distinct>
+<w>вот<ana lex="вот" gr="PART="/></w> 
+<w>сижу<ana lex="сидеть" gr="V,ipf,intr=inpraes,sg,indic,1p"/></w>.
+<w>Илья<ana lex="илья" gr="S,persn,m,anim=nom,sg"/></w>@ 
+<w>А<ana lex="а" gr="CONJ="/></w> 
+<w>у<ana lex="у" gr="PR="/></w> 
+<w>тебя<ana lex="ты" gr="SPRO,sg,2p=acc"/><ana lex="ты" gr="SPRO,sg,2p=gen"/></w>, 
+<w>Гриша<ana lex="гриша" gr="S,persn,m,anim=nom,sg"/></w>, 
+<w>как<ana lex="как" gr="CONJ="/></w> 
+<w>дела<ana lex="дело" gr="S,n,inan=acc,pl"/><ana lex="дело" gr="S,n,inan=gen,sg"/><ana lex="дело" gr="S,n,inan=nom,pl"/></w>? 
+</se>
+<se>
+<w>Да<ana lex="да" gr="CONJ="/></w> 
+<w>у<ana lex="у" gr="PR="/></w> 
+<w>меня<ana lex="я" gr="SPRO,sg,1p=acc"/><ana lex="я" gr="SPRO,sg,1p=gen"/></w> 
+<w>нормально<ana lex="нормально" gr="ADV="/></w>, 
+<w>а<ana lex="а" gr="CONJ="/></w> 
+<w>у<ana lex="у" gr="PR="/></w> 
+<w>тебя<ana lex="ты" gr="SPRO,sg,2p=acc"/><ana lex="ты" gr="SPRO,sg,2p=gen"/></w> 
+<w>как<ana lex="как" gr="ADVPRO="/></w>? 
+</se>
+<se>
+<w>Да<ana lex="да" gr="CONJ="/></w> 
+<w>нормально<ana lex="нормально" gr="ADV="/></w>, 
+<w>а<ana lex="а" gr="CONJ="/></w> 
+<distinct form="
+<w>шо</w>"
+<w>что<ana lex="что" gr="CONJ="/></w></distinct>
+<w>такое<ana lex="такой" gr="APRO=acc,sg,n"/><ana lex="такой" gr="APRO=nom,sg,n"/></w>? 
+</se>
+<se>
+<w>А<ana lex="а" gr="CONJ="/></w> 
+<w>не<ana lex="не" gr="PART="/></w> 
+<w>знаю<ana lex="знать" gr="V,ipf,tran=inpraes,sg,indic,1p"/></w>, 
+<distinct form="
+<w>шо</w>"
+<w>что<ana lex="что" gr="CONJ="/></w></distinct>
+<w>такое<ana lex="такой" gr="APRO=acc,sg,n"/><ana lex="такой" gr="APRO=nom,sg,n"/></w>, 
+<w>сижу<ana lex="сидеть" gr="V,ipf,intr=inpraes,sg,indic,1p"/></w> 
+<w>вот<ana lex="вот" gr="PART="/></w>... 
+</se>
+<se>
+<w>Да<ana lex="да" gr="PART="/></w>... 
+</se>
+<se>
+<w>А<ana lex="а" gr="CONJ="/></w> 
+<w>сам<ana lex="сам" gr="APRO=acc,sg,m,inan"/><ana lex="сам" gr="APRO=nom,sg,m"/></w> 
+<w>как<ana lex="как" gr="ADVPRO="/></w>? 
+</se>
+<se>
+<w>Дети<ana lex="ребенок" gr="S,m,anim=nom,pl"/></w> 
+<w>как<ana lex="как" gr="CONJ="/></w> 
+<w>твои<ana lex="твой" gr="APRO=nom,pl"/><ana lex="твой" gr="APRO=acc,pl,inan"/></w>? 
+</se>
+<se>
+<w>Жена<ana lex="жена" gr="S,f,anim=nom,sg"/></w>? 
+</se>
+<se>
+<w>Да<ana lex="да" gr="CONJ="/></w> 
+<w>нормально<ana lex="нормально" gr="ADV="/></w>, 
+<w>а<ana lex="а" gr="CONJ="/></w> 
+<w>у<ana lex="у" gr="PR="/></w> 
+<w>тебя<ana lex="ты" gr="SPRO,sg,2p=acc"/><ana lex="ты" gr="SPRO,sg,2p=gen"/></w>? 
+</se>
+<se>
+<w>Да<ana lex="да" gr="CONJ="/></w> 
+<w>у<ana lex="у" gr="PR="/></w> 
+<w>меня<ana lex="я" gr="SPRO,sg,1p=acc"/><ana lex="я" gr="SPRO,sg,1p=gen"/></w> 
+<w>тоже<ana lex="тоже" gr="PART="/></w> 
+<w>нормально<ana lex="нормально" gr="ADV="/></w>, 
+<w>знаешь<ana lex="знать" gr="V,ipf,tran=inpraes,sg,indic,2p"/></w>, 
+<w>вот<ana lex="вот" gr="PART="/></w>, 
+<w>потихонечку<ana lex="потихонечку" gr="ADV="/></w>, 
+<w>сижу<ana lex="сидеть" gr="V,ipf,intr=inpraes,sg,indic,1p"/></w>, 
+<w>разговариваю<ana lex="разговаривать" gr="V,ipf,intr=inpraes,sg,indic,1p"/></w>... 
+<w>сам<ana lex="сам" gr="APRO=acc,sg,m,inan"/><ana lex="сам" gr="APRO=nom,sg,m"/></w> 
+<w>с<ana lex="с" gr="PR="/></w> 
+<w>собой<ana lex="себя" gr="SPRO=ins"/></w>. 
+</se>
+<se>
+<w>С<ana lex="с" gr="PR="/></w> 
+<w>тобой<ana lex="ты" gr="SPRO,sg,2p=ins"/></w>. 
+</se>
+<se>
+<w>С<ana lex="с" gr="PR="/></w> 
+<w>собой<ana lex="себя" gr="SPRO=ins"/></w>. 
+</se>
+<se>
+<w>С<ana lex="с" gr="PR="/></w> 
+<w>тобой<ana lex="ты" gr="SPRO,sg,2p=ins"/></w>. 
+</se>
+<se>
+<w>Не<ana lex="не" gr="PART="/></w> 
+<w>знаю<ana lex="знать" gr="V,ipf,tran=inpraes,sg,indic,1p"/></w> 
+<w>с<ana lex="с" gr="PR="/></w> 
+<w>кем<ana lex="кто" gr="SPRO,sg,m,anim=ins"/></w>. 
+</se>
+<se>
+<w>Нормально<ana lex="нормально" gr="ADV="/></w>. 
+</se>
+<se>
+<w>Сижу<ana lex="сидеть" gr="V,ipf,intr=inpraes,sg,indic,1p"/></w> 
+<w>вот<ana lex="вот" gr="PART="/></w>, 
+<w>говорю<ana lex="говорить" gr="V,ipf,tran=inpraes,sg,indic,1p"/></w> 
+<w>долго<ana lex="долго" gr="ADV="/></w> 
+<w>очень<ana lex="очень" gr="ADV="/></w> 
+<w>уже<ana lex="уже" gr="ADV="/></w>, 
+<w>четыре<ana lex="четыре" gr="NUM=nom"/><ana lex="четыре" gr="NUM=acc,inan"/></w> 
+<w>минуты<ana lex="минута" gr="S,f,inan=acc,pl"/><ana lex="минута" gr="S,f,inan=gen,sg"/><ana lex="минута" gr="S,f,inan=nom,pl"/></w> 
+<w>говорю<ana lex="говорить" gr="V,ipf,tran=inpraes,sg,indic,1p"/></w>, 
+<w>четыре<ana lex="четыре" gr="NUM=nom"/><ana lex="четыре" gr="NUM=acc,inan"/></w> 
+<w>с<ana lex="с" gr="PR="/></w> 
+<w>половиной<ana lex="половина" gr="S,f,inan=ins,sg"/></w> 
+<w>даже<ana lex="даже" gr="PART="/></w>, 
+<w>вот<ana lex="вот" gr="PART="/></w> 
+<w>ещё<ana lex="еще" gr="ADV="/></w> 
+<w>надо<ana lex="надо" gr="ADV,praed="/></w> 
+<w>бы<ana lex="бы" gr="PART="/></w> 
+<w>полминуты<ana lex="полминуты" gr="S,inan=acc,pl,m"/><ana lex="полминуты" gr="S,inan=nom,pl,m"/></w> 
+<w>поговорить<ana lex="поговорить" gr="V,pf,intr=inf"/></w>, 
+<w>а<ana lex="а" gr="CONJ="/></w> 
+<w>я<ana lex="я" gr="SPRO,sg,1p=nom"/></w> 
+<w>не<ana lex="не" gr="PART="/></w> 
+<w>знаю<ana lex="знать" gr="V,ipf,tran=inpraes,sg,indic,1p"/></w> 
+<w>даже<ana lex="даже" gr="PART="/></w>, 
+<w>что<ana lex="что" gr="CONJ="/></w> 
+<w>тебе<ana lex="ты" gr="SPRO,sg,2p=abl"/><ana lex="ты" gr="SPRO,sg,2p=dat"/></w> 
+<w>сказать<ana lex="сказать" gr="V,pf,tran=inf"/></w> 
+<w>такого-то<ana lex="такой-то" gr="APRO=acc,sg,m,anim"/><ana lex="такой-то" gr="APRO=gen,sg,m"/><ana lex="такой-то" gr="APRO=gen,sg,n"/></w>. 
+<distinct form="
+<w>Хриша<ana lex="хриш" qual="bastard" gr="S,famn,m,anim=acc,sg"/><ana lex="хриш" qual="bastard" gr="S,famn,m,anim=gen,sg"/></w>"
+<w>Гриша<ana lex="гриша" gr="S,persn,m,anim=nom,sg"/></w>/
+<w>distinct</w>. 
+</se>
+<se>
+<w>Гриша<ana lex="гриша" gr="S,persn,m,anim=nom,sg"/></w>. 
+</se>
+<se>
+<w>Вот<ana lex="вот" gr="PART="/></w>, 
+<w>знаешь<ana lex="знать" gr="V,ipf,tran=inpraes,sg,indic,2p"/></w>, 
+<w>иногда<ana lex="иногда" gr="ADV="/></w> 
+<distinct form="
+<w>хэкаю<ana lex="хэкать" qual="bastard" gr="V,ipf=inpraes,sg,indic,1p"/></w>"
+<w>гэкаю<ana lex="гэкать" qual="bastard" gr="V,ipf=inpraes,sg,indic,1p"/></w></distinct>, 
+<w>ну<ana lex="ну" gr="PART="/></w>, 
+<w>как<ana lex="как" gr="ADVPRO="/></w> 
+<w>бы<ana lex="бы" gr="PART="/></w> 
+<distinct form="
+<w>хэкаю<ana lex="хэкать" qual="bastard" gr="V,ipf=inpraes,sg,indic,1p"/></w>"
+<w>гэкаю<ana lex="гэкать" qual="bastard" gr="V,ipf=inpraes,sg,indic,1p"/></w></distinct>
+<w>не<ana lex="не" gr="PART="/></w> 
+<w>потому<ana lex="потому" gr="ADVPRO="/></w> 
+<w>что<ana lex="что" gr="CONJ="/></w>  
+<distinct form="
+<w>хэкаю<ana lex="хэкать" qual="bastard" gr="V,ipf=inpraes,sg,indic,1p"/></w>"
+<w>гэкаю<ana lex="гэкать" qual="bastard" gr="V,ipf=inpraes,sg,indic,1p"/></w></distinct>
+<w>обычно<ana lex="обычно" gr="ADV="/></w>, 
+<w>я<ana lex="я" gr="SPRO,sg,1p=nom"/></w> 
+<w>обычно<ana lex="обычно" gr="ADV="/></w> 
+<w>не<ana lex="не" gr="PART="/></w> 
+<distinct form="
+<w>хэкаю<ana lex="хэкать" qual="bastard" gr="V,ipf=inpraes,sg,indic,1p"/></w>"
+<w>гэкаю<ana lex="гэкать" qual="bastard" gr="V,ipf=inpraes,sg,indic,1p"/></w>/
+<w>distinct</w>, 
+<w>я<ana lex="я" gr="SPRO,sg,1p=nom"/></w> 
+<w>гэ<ana lex="гэ" gr="S,n,inan=abl,pl"/><ana lex="гэ" gr="S,n,inan=abl,sg"/><ana lex="гэ" gr="S,n,inan=acc,pl"/><ana lex="гэ" gr="S,n,inan=acc,sg"/><ana lex="гэ" gr="S,n,inan=dat,pl"/><ana lex="гэ" gr="S,n,inan=dat,sg"/><ana lex="гэ" gr="S,n,inan=gen,pl"/><ana lex="гэ" gr="S,n,inan=gen,sg"/><ana lex="гэ" gr="S,n,inan=ins,pl"/><ana lex="гэ" gr="S,n,inan=ins,sg"/><ana lex="гэ" gr="S,n,inan=nom,pl"/><ana lex="гэ" gr="S,n,inan=nom,sg"/></w> 
+<w>всегда<ana lex="всегда" gr="ADVPRO="/></w> 
+<w>говорю<ana lex="говорить" gr="V,ipf,tran=inpraes,sg,indic,1p"/></w>, 
+<w>но<ana lex="но" gr="CONJ="/></w> 
+<w>иногда<ana lex="иногда" gr="ADV="/></w> 
+<w>вот<ana lex="вот" gr="PART="/></w> 
+<w>хочется<ana lex="хотеться" gr="V,ipf,intr=inpraes,indic"/></w> 
+<distinct form="
+<w>хэкнуть<ana lex="хэкнуть" qual="bastard" gr="V,obsc,pf=inf"/><ana lex="хэкнуть" qual="bastard" gr="V,inform,obsc,pf=inf"/></w>"
+<w>гэкнуть<ana lex="гэкнуть" qual="bastard" gr="V,obsc,pf=inf"/><ana lex="гэкнуть" qual="bastard" gr="V,inform,obsc,pf=inf"/></w></distinct>, 
+<distinct form="
+<w>шоб<ana lex="шоб" qual="bastard" gr="S,m,inan=acc,sg"/><ana lex="шоб" qual="bastard" gr="S,m,inan=nom,sg"/><ana lex="шоб" qual="bastard" gr="S,m,inan=acc,sg"/><ana lex="шоб" qual="bastard" gr="S,m,inan=nom,sg"/></w>"
+<w>чтобы<ana lex="чтобы" gr="CONJ="/></w>/
+<w>distinct</w>... 
+<w>чтоб<ana lex="чтоб" gr="CONJ="/></w> 
+<distinct form="
+<w>красив<ana lex="красивый" gr="A=sg,brev,m"/></w>’
+<w>ее<ana lex="она" gr="SPRO,sg,3p,f=acc"/><ana lex="она" gr="SPRO,sg,3p,f=gen"/></w>"
+<w>красивее<ana lex="красивый" gr="A=comp"/></w></distinct>
+<w>было<ana lex="быть" gr="V,intr=praet,sg,indic,n,ipf"/></w>, 
+<w>ну<ana lex="ну" gr="PART="/></w> 
+<w>вот<ana lex="вот" gr="PART="/></w> 
+<w>и<ana lex="и" gr="CONJ="/></w> 
+<w>шокаю<ana lex="шокать" qual="bastard" gr="V,ipf=inpraes,sg,indic,1p,tran"/></w> 
+<w>тоже<ana lex="тоже" gr="PART="/></w>. 
+</se>
+<se>
+<w>Но<ana lex="но" gr="CONJ="/></w> 
+<w>вот<ana lex="вот" gr="PART="/></w> 
+<w>я<ana lex="я" gr="SPRO,sg,1p=nom"/></w> 
+<w>обычно<ana lex="обычно" gr="ADV="/></w> 
+<w>не<ana lex="не" gr="PART="/></w> 
+<w>шокаю<ana lex="шокать" qual="bastard" gr="V,ipf=inpraes,sg,indic,1p,tran"/></w> 
+<w>и<ana lex="и" gr="CONJ="/></w> 
+<w>не<ana lex="не" gr="PART="/></w> 
+<distinct form="
+<w>хэкаю<ana lex="хэкать" qual="bastard" gr="V,ipf=inpraes,sg,indic,1p"/></w>"
+<w>гэкаю<ana lex="гэкать" qual="bastard" gr="V,ipf=inpraes,sg,indic,1p"/></w></distinct>. 
+</se>
+<se>
+<w>Но<ana lex="но" gr="CONJ="/></w> 
+<w>иногда<ana lex="иногда" gr="ADV="/></w> 
+<w>приходится<ana lex="приходиться" gr="V,ipf,intr=inpraes,sg,indic,3p"/></w> 
+<w>вот<ana lex="вот" gr="PART="/></w>. 
+</se>
+<se>
+<w>А<ana lex="а" gr="CONJ="/></w> 
+<w>так<ana lex="так" gr="ADVPRO="/></w>, 
+<w>ну<ana lex="ну" gr="PART="/></w>, 
+<w>то<ana lex="то" gr="PART="/></w> 
+<w>что<ana lex="что" gr="SPRO,sg,n,inan=acc"/><ana lex="что" gr="SPRO,sg,n,inan=nom"/></w>, 
+<w>то<ana lex="то" gr="PART="/></w> 
+<w>шо</w>, 
+<w>то<ana lex="то" gr="CONJ="/></w> 
+<w>гэ<ana lex="гэ" gr="S,n,inan=abl,pl"/><ana lex="гэ" gr="S,n,inan=abl,sg"/><ana lex="гэ" gr="S,n,inan=acc,pl"/><ana lex="гэ" gr="S,n,inan=acc,sg"/><ana lex="гэ" gr="S,n,inan=dat,pl"/><ana lex="гэ" gr="S,n,inan=dat,sg"/><ana lex="гэ" gr="S,n,inan=gen,pl"/><ana lex="гэ" gr="S,n,inan=gen,sg"/><ana lex="гэ" gr="S,n,inan=ins,pl"/><ana lex="гэ" gr="S,n,inan=ins,sg"/><ana lex="гэ" gr="S,n,inan=nom,pl"/><ana lex="гэ" gr="S,n,inan=nom,sg"/></w>, 
+<w>то<ana lex="то" gr="CONJ="/></w> 
+<w>хэ</w>, 
+<w>не<ana lex="не" gr="PART="/></w> 
+<w>знаю<ana lex="знать" gr="V,ipf,tran=inpraes,sg,indic,1p"/></w> 
+<w>даже<ana lex="даже" gr="PART="/></w>, 
+<w>что<ana lex="что" gr="CONJ="/></w> 
+<w>лучше<ana lex="хорошо" gr="ADV=comp,parenth"/></w>, 
+<w>вот<ana lex="вот" gr="PART="/></w>. 
+</se>
+<se>
+<w>Ну<ana lex="ну" gr="PART="/></w>, 
+<w>Гриша<ana lex="гриша" gr="S,persn,m,anim=nom,sg"/></w>, 
+<w>давай<ana lex="давать" gr="V,ipf,tran=sg,imper,2p"/></w>, 
+<w>счастья<ana lex="счастье" gr="S,n,inan=acc,pl"/><ana lex="счастье" gr="S,n,inan=gen,sg"/><ana lex="счастье" gr="S,n,inan=nom,pl"/></w>, 
+<w>здоровья<ana lex="здоровье" gr="S,n,inan=acc,pl"/><ana lex="здоровье" gr="S,n,inan=gen,sg"/><ana lex="здоровье" gr="S,n,inan=nom,pl"/></w>, 
+<w>радости<ana lex="радость" gr="S,f,inan=abl,sg"/><ana lex="радость" gr="S,f,inan=acc,pl"/><ana lex="радость" gr="S,f,inan=dat,sg"/><ana lex="радость" gr="S,f,inan=gen,sg"/><ana lex="радость" gr="S,f,inan=nom,pl"/></w>, 
+<w>сладости<ana lex="сладость" gr="S,f,inan=abl,sg"/><ana lex="сладость" gr="S,f,inan=acc,pl"/><ana lex="сладость" gr="S,f,inan=dat,sg"/><ana lex="сладость" gr="S,f,inan=gen,sg"/><ana lex="сладость" gr="S,f,inan=nom,pl"/></w>, 
+<w>вот<ana lex="вот" gr="PART="/></w>.
+</se>
+</body>
+</html>
