@@ -7,3 +7,5 @@
 * 10.04.2017 - [Работа с файлами и папками](https://github.com/ElizavetaKuzmenko/Programming-and-computer-instruments/blob/master/seminars/2017.04.10%20%D0%A0%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%20%D1%81%20%D1%84%D0%B0%D0%B9%D0%BB%D0%B0%D0%BC%D0%B8%20%D0%B8%20%D0%BF%D0%B0%D0%BF%D0%BA%D0%B0%D0%BC%D0%B8.ipynb)
 * 17.04.2017 - [Функция os.walk()](https://github.com/ElizavetaKuzmenko/Programming-and-computer-instruments/blob/master/seminars/2017.04.17%20os.walk().ipynb)
 * 24.04.2017 - [Ошибки и исключения](https://github.com/ElizavetaKuzmenko/Programming-and-computer-instruments/blob/master/seminars/Errors-and-Exceptions.ipynb)
+* 15.05.2017 - [PMI](https://github.com/ElizavetaKuzmenko/Programming-and-computer-instruments/blob/master/seminars/PMI.ipynb)
+* 22.05.2017 - [TF-IDF](https://github.com/ElizavetaKuzmenko/Programming-and-computer-instruments/blob/master/seminars/TF-IDF.ipynb)
